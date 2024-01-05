@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url(https://i.pinimg.com/originals/12/d3/3d/12d33d6d69964eec04be50bac876a0eb.jpg);
+    background-color: #ffe6e6; /* Romantic background color */
+}
+
+.letter-container {
+    width: 60%;
+    padding: 20px;
+    background-color: #a5a081;
+    box-shadow: 0 0 10px rgb(244, 20, 20);
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+.letter {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+h1 {
+    color: #fae100; /* Romantic heading color */
+}
+
+p {
+    color: #686104;
+    margin-bottom: 10px;
+}
+
