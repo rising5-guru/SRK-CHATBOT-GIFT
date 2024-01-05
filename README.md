@@ -32,9 +32,8 @@ If you want to run the project locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/rising5-guru/SRK-CHATBOT-GIFT.git
-
-   Open the index.html file in your web browser.
-
+   
+ #### Open the index.html file in your web browser.
 ## Repository Structure
 
 index.html : 1st Page HTML file for the website.
