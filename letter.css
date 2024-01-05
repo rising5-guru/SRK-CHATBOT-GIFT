@@ -1,20 +1,25 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     height: 100vh;
     margin: 0;
     background-image: url(https://i.pinimg.com/originals/12/d3/3d/12d33d6d69964eec04be50bac876a0eb.jpg);
-    background-color: #ffe6e6; /* Romantic background color */
+    background-size: cover;
+    background-color: #ffe6e6;
+    background-size: cover;
 }
 
 .letter-container {
+    background-size: cover;
+    position: static;
     width: 60%;
-    padding: 20px;
-    background-color: #a5a081;
+    padding: 30px;
+    background-color: #fbf3be;
     box-shadow: 0 0 10px rgb(244, 20, 20);
     border-radius: 10px;
     opacity: 0.9;
+    margin-top: 20px; /* Add margin-top for space */
 }
 
 .letter {
@@ -24,11 +29,10 @@ body {
 }
 
 h1 {
-    color: #fae100; /* Romantic heading color */
+    color: #fa0000; 
 }
 
 p {
-    color: #686104;
+    color: #070707;
     margin-bottom: 10px;
 }
-
