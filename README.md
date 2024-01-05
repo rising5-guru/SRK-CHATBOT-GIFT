@@ -2,11 +2,8 @@
 
 A special gift for my friend Palak - a personalized chatbot website featuring a heartfelt letter and an interactive SRK chatbot named Rahul.
 
- Live At : https://t.ly/voqt_
  ### Live At : http://tinyurl.com/SRK-CHATBOT-GIFT
- Live At : https://t.ly/voqt_
  
-
 ## Overview
 
 This project is a web-based gift that includes two pages:
@@ -56,6 +53,14 @@ This project is licensed under the MIT License.
 
 ## How to Open the Project
 Open the index.html file: To view the project, simply open the index.html file in your web browser.
+
+### Sample 
+![image](https://github.com/rising5-guru/SRK-CHATBOT-GIFT/assets/154914265/d6661d7c-8a27-4769-9e88-0451258fa5d0)
+![image](https://github.com/rising5-guru/SRK-CHATBOT-GIFT/assets/154914265/4b8db5cf-6f55-492c-bc4c-03a79aeaa2fd)
+![image](https://github.com/rising5-guru/SRK-CHATBOT-GIFT/assets/154914265/96a1ebd2-942a-4b3b-bf93-91d19753eb5c)
+![image](https://github.com/rising5-guru/SRK-CHATBOT-GIFT/assets/154914265/e9eccf05-77af-4d95-b0f1-8d3f2e705ffc)
+![image](https://github.com/rising5-guru/SRK-CHATBOT-GIFT/assets/154914265/8b190bd2-cd3d-4b26-86f3-46c630268b9f)
+
 
 ### Made with ❤️ by Rising
 
