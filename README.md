@@ -36,13 +36,19 @@ If you want to run the project locally:
  #### Open the index.html file in your web browser.
 ## Repository Structure
 
-index.html : 1st Page HTML file for the website.
-style.css : Stylesheet for the 1st page .
-letter.html : 2nd Page HTML file for the project.
-letter.css: Stylesheet for the 1st page .
-chatbot.html: HTML file for the chatbot.
-chatbot.css : Stylesheet for the chatbot.
-chatbot.js: JavaScript file for chatbot functionality.
+- index.html : 1st Page HTML file for the website.
+
+- style.css : Stylesheet for the 1st page .
+
+- letter.html : 2nd Page HTML file for the project.
+
+- letter.css: Stylesheet for the 1st page .
+
+- chatbot.html: HTML file for the chatbot.
+
+- chatbot.css : Stylesheet for the chatbot.
+
+- chatbot.js: JavaScript file for chatbot functionality.
 
 ## Contributions
 
